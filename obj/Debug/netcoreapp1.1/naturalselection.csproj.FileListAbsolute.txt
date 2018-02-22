@@ -1,0 +1,8 @@
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\bin\Debug\netcoreapp1.1\naturalselection.deps.json
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\bin\Debug\netcoreapp1.1\naturalselection.runtimeconfig.json
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\bin\Debug\netcoreapp1.1\naturalselection.runtimeconfig.dev.json
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\obj\Debug\netcoreapp1.1\naturalselection.AssemblyInfo.cs
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\bin\Debug\netcoreapp1.1\naturalselection.dll
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\bin\Debug\netcoreapp1.1\naturalselection.pdb
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\obj\Debug\netcoreapp1.1\naturalselection.dll
+C:\Users\okfs87 7\Desktop\DojoAssignments\netCore\C#\naturalselection\obj\Debug\netcoreapp1.1\naturalselection.pdb
